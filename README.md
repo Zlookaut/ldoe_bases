@@ -1,9 +1,9 @@
 {
   "version_code": 22,
   "version": "1.3.3.2",
-  "link": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1838MxPqOEfpFxzk2hEOlYk06B2Ermd4K",
+  "link": "https://github.com/Zlookaut/ldoe_bases/releases/download/1.3.3.2/1.3.3.2.apk",
   "updates": {
-    "Android": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1838MxPqOEfpFxzk2hEOlYk06B2Ermd4K",
+    "Android": "https://github.com/Zlookaut/ldoe_bases/releases/download/1.3.3.2/1.3.3.2.apk",
     "IOS": "http://where.are.no.links"
   },
   "changelog": {
