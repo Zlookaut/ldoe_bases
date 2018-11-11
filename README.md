@@ -1,9 +1,9 @@
 {
   "version_code": 23,
   "version": "1.3.3.3",
-  "link": "https://drive.google.com/uc?export=download&confirm=1FgxMTkHx_xzVTEpHKgXjoefIE8WK1hdO",
+  "link": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1FgxMTkHx_xzVTEpHKgXjoefIE8WK1hdO",
   "updates": {
-    "Android": "https://drive.google.com/uc?export=download&confirm=1FgxMTkHx_xzVTEpHKgXjoefIE8WK1hdO",
+    "Android": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1FgxMTkHx_xzVTEpHKgXjoefIE8WK1hdO",
     "IOS": "http://where.are.no.links"
   },
   "changelog": {
