@@ -1,9 +1,9 @@
 {
   "version_code": 31,
   "version": "1.3.4.5",
-  "link": "https://drive.google.com/open?id=1uDnjwET75ILRoClCnhHaJwz4cWYmPgWf",
+  "link": "https://drive.google.com/uc?export=download&id=1uDnjwET75ILRoClCnhHaJwz4cWYmPgWf",
   "updates": {
-    "Android": "https://drive.google.com/open?id=1uDnjwET75ILRoClCnhHaJwz4cWYmPgWf",
+    "Android": "https://drive.google.com/uc?export=download&id=1uDnjwET75ILRoClCnhHaJwz4cWYmPgWf",
     "IOS": "http://where.are.no.links"
   },
   "changelog": {
