@@ -1,0 +1,43 @@
+{
+	    "0":
+	    {
+		    "url":"http://cfg-01.ldoe.kefirgames.ru/bases/",
+		    "start_version":"1.7.0",
+		    "end_vresion": "1.7.9"
+	    },
+		"1":
+	    {
+		    "url":"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_7_9/",
+		    "start_version":"1.7.9",
+		    "end_vresion": "1.8.6"
+	    },
+	    "2":
+	    {
+		    "url":"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_8_6/",
+		    "start_version":"1.8.6",
+			"end_vresion": "1.9"
+	    },
+		"3":
+	    {
+		    "url":"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9/",
+		    "start_version":"1.9",
+			"end_vresion": "1.9.8"
+	    },
+		"4":
+	    {
+		    "url":"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_9_8/",
+		    "start_version":"1.9.8",
+			"end_vresion": "1.10.3"
+	    },
+		"5":
+	    {
+		    "url":"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_10_3/",
+		    "start_version":"1.10.3",
+			"end_vresion": "1.16.3"
+	    },
+		"6":
+	    {
+		    "url":"http://cfg-01.ldoe.kefirgames.ru/bases/bases_1_16_3/",
+		    "start_version":"1.16.3"
+	    }
+    }
